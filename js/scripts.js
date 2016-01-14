@@ -6,7 +6,6 @@ $(document).ready(function() {
       alert("I love " + iceCreams[index] + "!");
     }
     // iceCreams.forEach(function(iceCream) {
-      // $("li").text(iceCream);
       // alert(iceCream);
     // });
   });
